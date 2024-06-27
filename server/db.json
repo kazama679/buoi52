@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "name": "minh thu",
+      "id": 2
+    },
+    {
+      "name": "minh thu",
+      "id": 7
+    },
+    {
+      "name": "minh thu",
+      "id": 9
+    },
+    {
+      "name": "minh thu",
+      "id": 17
+    },
+    {
+      "name": "minh thu",
+      "id": 25
+    },
+    {
+      "name": "minh thu",
+      "id": 26
+    },
+    {
+      "name": "minh thu",
+      "id": 27
+    },
+    {
+      "name": "minh thu",
+      "id": 28
+    }
+  ],
+  "lessons": [
+    {
+      "id": 1,
+      "title": "kiến thức về...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB-5OM98-JcrFy0t0Z-635-uAz3iR4lBSCKA&s",
+      "content": "kiến thức về...",
+      "createdAt": "Nguyễn Xuân Quang",
+      "updateAt": "27/06/2024",
+      "status": true,
+      "category": "Lập trình web"
+    },
+    {
+      "id": 2,
+      "title": "kiến thức về...2",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB-5OM98-JcrFy0t0Z-635-uAz3iR4lBSCKA&s",
+      "content": "kiến thức về...2",
+      "createdAt": "Nguyễn Xuân Quang",
+      "updateAt": "27/06/2024",
+      "status": true,
+      "category": "Lập trình web"
+    },
+    {
+      "id": 3,
+      "title": "kiến thức về...3",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB-5OM98-JcrFy0t0Z-635-uAz3iR4lBSCKA&s",
+      "content": "kiến thức về...3",
+      "createdAt": "Nguyễn Xuân Quang",
+      "updateAt": "27/06/2024",
+      "status": true,
+      "category": "Lập trình web"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "category": "Lập trình web"
+    },
+    {
+      "id": 2,
+      "category": "Lập trình game"
+    }
+  ]
+}
