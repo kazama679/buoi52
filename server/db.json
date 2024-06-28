@@ -35,16 +35,6 @@
   ],
   "lessons": [
     {
-      "id": 1,
-      "title": "kiến thức về...",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB-5OM98-JcrFy0t0Z-635-uAz3iR4lBSCKA&s",
-      "content": "kiến thức về...",
-      "createdAt": "Nguyễn Xuân Quang",
-      "updateAt": "27/06/2024",
-      "status": true,
-      "category": "Lập trình web"
-    },
-    {
       "id": 2,
       "title": "kiến thức về...2",
       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB-5OM98-JcrFy0t0Z-635-uAz3iR4lBSCKA&s",
@@ -63,6 +53,42 @@
       "updateAt": "27/06/2024",
       "status": true,
       "category": "Lập trình web"
+    },
+    {
+      "id": 961070,
+      "title": "b",
+      "thumbnail": "b",
+      "content": "b",
+      "updateAt": "27/06/2024",
+      "status": true,
+      "category": "Lập trình app"
+    },
+    {
+      "id": 12423621,
+      "title": "123",
+      "thumbnail": "123",
+      "content": "123",
+      "updateAt": "27/06/2024",
+      "status": true,
+      "category": "Lập trình web"
+    },
+    {
+      "id": 45281254,
+      "title": "f",
+      "thumbnail": "f",
+      "content": "f",
+      "updateAt": "27/06/2024",
+      "status": true,
+      "category": "Lập trình web"
+    },
+    {
+      "id": 42583891,
+      "title": "s",
+      "thumbnail": "d",
+      "content": "d",
+      "updateAt": "27/06/2024",
+      "status": true,
+      "category": "Lập trình web"
     }
   ],
   "category": [
@@ -73,6 +99,10 @@
     {
       "id": 2,
       "category": "Lập trình game"
+    },
+    {
+      "id": 3,
+      "category": "Lập trình app"
     }
   ]
 }

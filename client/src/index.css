@@ -179,3 +179,18 @@ th {
   background-color: rgba(0, 0, 0, 0.5);
   z-index: 999;
 }
+.formasStyle{
+  margin-top: 20px;
+}
+.banGhiAll{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 25px;
+}
+.banGhi{
+  display: flex;
+  gap: 10px;
+}
+.selectSapXep{
+  margin-right: 100px;
+}
